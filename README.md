@@ -17,4 +17,5 @@ For the implemantation, it was used the DeepFace framwork.
   organization = {IEEE}
 }
 
+<p> Link to DeepFace repo: https://github.com/serengil/deepface/blob/master/README.md </p>
 <p align="center"><img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png" width="200" height="240"></p>
